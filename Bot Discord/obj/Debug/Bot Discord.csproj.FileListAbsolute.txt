@@ -1,0 +1,64 @@
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\Bot Discord.exe.config
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\Bot Discord.exe
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\Bot Discord.pdb
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\Discord.Net.Core.dll
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\Discord.Net.Rest.dll
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\System.Interactive.Async.dll
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\System.Linq.Async.dll
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\Discord.Net.Commands.xml
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\Discord.Net.Core.xml
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\Discord.Net.Rest.xml
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\System.Interactive.Async.xml
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\System.Linq.Async.xml
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\obj\Debug\Bot Discord.csprojAssemblyReference.cache
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\obj\Debug\Bot Discord.csproj.CoreCompileInputs.cache
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\obj\Debug\Bot Discord.csproj.CopyComplete
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\obj\Debug\Bot Discord.exe
+C:\Users\Magic Makers\source\repos\Bot Discord\Bot Discord\obj\Debug\Bot Discord.pdb
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\obj\Debug\Bot Discord.csprojAssemblyReference.cache
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\obj\Debug\Bot Discord.csproj.CoreCompileInputs.cache
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\obj\Debug\Bot Discord.exe
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\obj\Debug\Bot Discord.pdb
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\Bot Discord.exe.config
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\Bot Discord.exe
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\Bot Discord.pdb
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\Discord.Net.Commands.dll
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\Discord.Net.Core.dll
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\Discord.Net.Rest.dll
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\Discord.Net.Webhook.dll
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\Discord.Net.WebSocket.dll
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\Newtonsoft.Json.dll
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\System.Collections.Immutable.dll
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\System.Interactive.Async.dll
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\System.Linq.Async.dll
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\Discord.Net.Commands.xml
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\Discord.Net.Core.xml
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\Discord.Net.Rest.xml
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\Discord.Net.Webhook.xml
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\Discord.Net.WebSocket.xml
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\Newtonsoft.Json.xml
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\System.Collections.Immutable.xml
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\System.Interactive.Async.xml
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\System.Linq.Async.xml
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Data\users\Konect\1Documents\programmation\Bot Discord\Bot Discord\obj\Debug\Bot Discord.csproj.CopyComplete
